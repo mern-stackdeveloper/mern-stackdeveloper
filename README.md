@@ -1,4 +1,5 @@
-<img style="height = "200px"; src="https://www.gurukafa.net/blog/wp-content/uploads/2020/04/web-developer-scaled.jpg"></img>
+<img style="height: 200px; width: 100%;" src="https://www.gurukafa.net/blog/wp-content/uploads/2020/04/web-developer-scaled.jpg">
+
 <h1 align="center">Merhaba 👋, ben Yusuf Arslan</h1>
 <h3 align="center">Türkiye'den tutkulu bir web geliştiricisi</h3>
 
@@ -8,13 +9,13 @@
 
 - 💬 Bana **web tasarımı hakkında** sorun
 
-- 📫Bana nasıl ulaşabilirsiniz **yusufarslanpc@gmail.com**
+- 📫 Bana nasıl ulaşabilirsiniz **yusufarslanpc@gmail.com**
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
-<p align = "sol">
-<a href = "https://instagram.com/yusuficode" target = "blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator" /master/src/images/icons/Social/instagram.svg" alt = "yusuficode" height = "30" genişlik = "40" /></a>
-<a href = "https://www.youtube.com/c/yusuficode" target = "blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile" -readme-generator/master/src/images/icons/Social/youtube.svg" alt = "yusuficode" height = "30" genişlik = "40" /></a>
-<a href = "https://discord.gg/yusuficode" target = "blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator" /master/src/images/icons/Social/discord.svg" alt = "yusuficode" height = "30" genişlik = "40" /></a>
+<p align="left">
+  <a href="https://instagram.com/yusuficode" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusuficode" height="30" width="40"></a>
+  <a href="https://www.youtube.com/c/yusuficode" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yusuficode" height="30" width="40"></a>
+  <a href="https://discord.gg/yusuficode" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yusuficode" height="30" width="40"></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
