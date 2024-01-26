@@ -1,4 +1,4 @@
-<img src="https://www.gurukafa.net/blog/wp-content/uploads/2020/04/web-developer-scaled.jpg"></img>
+<img style="height = "200px" src="https://www.gurukafa.net/blog/wp-content/uploads/2020/04/web-developer-scaled.jpg"></img>
 <h1 align="center">Merhaba 👋, ben Yusuf Arslan</h1>
 <h3 align="center">Türkiye'den tutkulu bir web geliştiricisi</h3>
 
