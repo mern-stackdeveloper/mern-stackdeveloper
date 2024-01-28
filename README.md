@@ -37,3 +37,6 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
 </p>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1126964661175193620)](https://discord.com/users/1126964661175193620)
+
