@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **About web design**
 
-- 📫 How to reach me **yusufarslanpc@gmail.com**
+
 
   
 <h3 align="left">Connect with me:</h3>
