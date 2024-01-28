@@ -1,16 +1,17 @@
-<h1 align="center">Merhaba 👋, ben Yusuf Arslan</h1>
-<h3 align="center">Türkiye'den tutkulu bir web geliştiricisi</h3>
+<h1 align="center">Hi 👋, I'm Yusuf Arslan</h1>
+<h3 align="center">A passionate web developer from Turkey</h3>
 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=yusuficode&label=Profile%20views&color=0e75b6&style=flat" alt = "yusuficode" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuficode&label=Profile%20views&color=0e75b6&style=flat" alt="yusuficode" /> </p>
 
-- 🔭 Şu anda **Tam yığın e-ticaret sitesi** üzerinde çalışıyorum
+- 🔭 I’m currently working on **Full stack ecommerce site**
 
-- 🌱 Şu anda **Node.js React**'i öğreniyorum
+- 🌱 I’m currently learning **Node.js React**
 
-- 💬 Bana **web tasarımı hakkında** sorun
+- 💬 Ask me about **About web design**
 
-- 📫Bana nasıl ulaşabilirsiniz **yusufarslanpc@gmail.com**
+- 📫 How to reach me **yusufarslanpc@gmail.com**
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://instagram.com/yusuficode" target="_blank">
@@ -25,7 +26,7 @@
 </p>
 
 
-<h3 align="left">Diller ve Araçlar:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="sol"> </a>  <a href="https://www.w3schools.com/css/" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
