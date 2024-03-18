@@ -1,22 +1,16 @@
-<h1 align="center">Hi 👋, I'm Yusuf Arslan</h1>
-<h3 align="center">A passionate web developer from Turkey</h3>
+<h1 align="left">Hey 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuficode&label=Profile%20views&color=0e75b6&style=flat" alt="yusuficode" /> </p>
+###
 
-- 🔭 I’m currently working on **Full stack ecommerce site**
+<h2 align="left">About me</h2>
 
-- 🌱 I’m currently learning **Node.js React**
+###
 
-- 💬 Ask me about **About web design**
+<p align="left">Hello, I'm Yusuf Arslan, a 19-year-old residing in Midyat, Mardin. My interest in software development has been a lifelong passion, and I am currently focusing on web design. My goal is to become a full-stack web developer and make meaningful contributions to the technology industry. I have a solution-oriented approach and possess collaboration skills within Agile teams. I am open to continuous self-improvement and adapting to new technologies.</p>
 
+###
 
-
-  
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-
+<h2 align="left">I code with</h2>
 
 ###
 
@@ -29,19 +23,28 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
 ###
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1126964661175193620)](https://discord.com/users/1126964661175193620)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yusuficode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuficode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/yusuficode/count.svg?"  />
+</div>
+
+###
 
 
