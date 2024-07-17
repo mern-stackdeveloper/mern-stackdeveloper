@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hello, I'm Yusuf Arslan. I'm 19 years old and I live in Midyat district of Mardin. My interest in software development has always been a passion of mine since childhood, and I am currently focusing on web design. My goal is to become a full-stack web developer and to improve myself in this field. I have a solution-oriented approach and I have skills in collaboration within Agile teams. I am open to continuous self-improvement and adapting to new technologies.</p>
+<p align="left">Hello, I'm Yusuf Arslan. I'm 20 years old and I live in Midyat district of Mardin. My interest in software development has always been a passion of mine since childhood, and I am currently focusing on web design. My goal is to become a full-stack web developer and to improve myself in this field. I have a solution-oriented approach and I have skills in collaboration within Agile teams. I am open to continuous self-improvement and adapting to new technologies.</p>
 
 ###
 
